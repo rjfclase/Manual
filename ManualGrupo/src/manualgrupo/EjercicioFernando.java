@@ -14,11 +14,11 @@ public class EjercicioFernando {
     
     public static void main(String[] args) {
         
-        int n1=70,n2=20,n4=10,suma;
+        int n1=70,n2=20,n3=10,suma;
         
-        suma=n1+n2+n4;
+        suma=n1+n2+n3;
         
-        System.out.println("La suma de "+n1+", "+n2+" y "+n4+" da como resultado: "+suma);
+        System.out.println("La suma de "+n1+", "+n2+" y "+n3+" da como resultado: "+suma);
         
     }
     
