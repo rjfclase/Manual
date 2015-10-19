@@ -12,8 +12,8 @@ package manualgrupo;
 public class EjercicioJoséLuis {
     
     public static void main(String[] args){
-    int numero1=30,numero2=20;
-    int resta=numero1-numero2;
-        System.out.println("La resta de"+numero1+"y el"+numero2+" es: "+resta);  
+    int numero1=30,numero3=20;
+    int resta=numero1-numero3;
+        System.out.println("La resta de"+numero1+"y el"+numero3+" es: "+resta);  
     }
 }
