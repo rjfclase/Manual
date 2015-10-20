@@ -15,7 +15,7 @@ public class ManualGrupo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Java principal");
+        System.out.println("Java principal destinado a manual de Git-Hub");
     }
     
 }
