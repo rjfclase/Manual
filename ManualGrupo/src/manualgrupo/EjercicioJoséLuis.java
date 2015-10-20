@@ -14,7 +14,7 @@ public class EjercicioJoséLuis {
     public static void main(String[] args){
     int numero1=90,numero2=110;
     int resta=numero1-numero2;
-        System.out.println("La resta de "+numero1+" y el "+numero2+" es: "+resta); 
-        //Siempre olvidas los espacios
+        System.out.println("La resta de"+numero1+"y el"+numero2+"es:"+resta); 
+        
     }
 }
