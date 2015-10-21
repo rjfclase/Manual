@@ -19,7 +19,7 @@ public class EjercicioFernando {
         suma=n1+n2+n3;
         
         System.out.println("La suma de "+n1+", "+n2+" y "+n3+" da como resultado: "+suma);
-       
+        System.out.println("La suma de "+n1+" y "+n3+" es: "+(n1+n3)); //MODIFICACION PABLO
         
     }
     

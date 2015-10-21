@@ -15,6 +15,6 @@ public class EjercicioJoséLuis {
     int numero1=90,numero2=110;
     int resta=numero1-numero2;
         System.out.println("La resta de"+numero1+"y el"+numero2+"es:"+resta); 
-        
+        System.out.println("La suma de "+numero1+" y el "+numero2+" es:" +(numero1+numero2)); //MODIFICACION PABLO
     }
 }

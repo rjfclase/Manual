@@ -16,6 +16,9 @@ public class Raul {
         for (i = 1; i < 7; i++) {
             System.out.print("Hola" + i + "-");
         }
+        for (int j = 0; j < 5; j++) { //MODIFICACION PABLO
+            System.out.println("Adios"+ j);
+        }
 
     }
 }
